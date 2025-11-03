@@ -1,0 +1,20 @@
+* {
+  background-color: black;
+  scroll-behavior: smooth;
+  color: aliceblue;
+}
+h1 {
+  background: linear-gradient(to right, orange, red);
+  background-clip: text;
+  color: transparent;
+}
+.heading {
+  background-color: orange;
+  text-align: center;
+  border-radius: 20px;
+}
+hr {
+  border: none;
+  background: linear-gradient(to right, transparent yellow, transparent);
+  height: 2px;
+}
